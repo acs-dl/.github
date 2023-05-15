@@ -5,7 +5,7 @@ The Access Control System (ACS) is an advanced tool designed to manage and regul
 
 ## Features
 
-**Multi-Module Monitoring:** ACS uses official service APIs to asynchronously track activity across the aforementioned modules. This ensures your confidential information is well-protected and accessible only to authorized personnel.
+**Multi-Module Monitoring:** ACS uses official service APIs to asynchronously track activity across the aforementioned modules. This ensures your confidential information is well-protected and accessible only to authorized personnel. ![Modules](./assets/modules.jpeg)
 
 **Status of Requests Window:** This feature allows you to monitor all queues in real-time, providing instant updates on every request and change happening within the system. ![Status window](./assets/status_window.jpg)
 
