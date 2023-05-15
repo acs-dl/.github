@@ -9,11 +9,11 @@ The Access Control System (ACS) is an advanced tool designed to manage and regul
 
 **Status of Requests Window:** This feature allows you to monitor all queues in real-time, providing instant updates on every request and change happening within the system. ![Status window](./assets/status_window.jpg)
 
-**User Management:** ACS offers a detailed view of both verified and unverified users. You can manually add or delete users from these lists, providing a flexible approach to user management. Furthermore, you can view detailed profiles of verified users, including their module access levels.
+**User Management:** ACS offers a detailed view of both verified and unverified users. You can manually add or delete users from these lists, providing a flexible approach to user management. Furthermore, you can view detailed profiles of verified users, including their module access levels. ![Verified list](./assets/verified_list.jpg) ![Unverified list](./assets/unverified_list.jpg) ![Details page](./assets/details.jpg)
 
 **Customizable Indexing:** The system indexes all modules at a user-defined frequency. This allows for a tailored approach to access management, ensuring that the system aligns with your specific workflow.
 
-**Refresh Function:** This feature allows you to manually update the entire system, an individual module, or a submodule as per your needs. This ensures that your system is always up-to-date.
+**Refresh Function:** This feature allows you to manually update the entire system, an individual module, or a submodule as per your needs. This ensures that your system is always up-to-date. ![Refresh page](./assets/refresh_window.jpg)
 
 ## Getting Started
 This section will be updated with setup instructions and basic usage guidelines. Watch this space for more detailed guides and walkthroughs to help you unlock the full capabilities of this powerful system.
