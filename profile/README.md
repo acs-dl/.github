@@ -7,7 +7,7 @@ The Access Control System (ACS) is an advanced tool designed to manage and regul
 
 **Multi-Module Monitoring:** ACS uses official service APIs to asynchronously track activity across the aforementioned modules. This ensures your confidential information is well-protected and accessible only to authorized personnel. ![Modules](./profile/assets/modules.jpeg)
 
-**Status of Requests Window:** This feature allows you to monitor all queues in real-time, providing instant updates on every request and change happening within the system. ![Status window](./assets/status_window.jpg)
+**Status of Requests Window:** This feature allows you to monitor all queues in real-time, providing instant updates on every request and change happening within the system. ![Status window](./profile/assets/status_window.jpg)
 
 **User Management:** ACS offers a detailed view of both verified and unverified users. You can manually add or delete users from these lists, providing a flexible approach to user management. Furthermore, you can view detailed profiles of verified users, including their module access levels. ![Verified list](./profile/assets/verified_list.jpg) ![Unverified list](./profile/assets/unverified_list.jpg) ![Details page](./profile/assets/details.jpg)
 
