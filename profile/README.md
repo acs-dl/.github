@@ -1,4 +1,4 @@
-# Access Control System: README
+# Access Control System
 
 ## Project Overview
 The Access Control System (ACS) is an advanced tool designed to manage and regulate access to digital resources across several modules, including GitLab, GitHub, Telegram, and Email. This project aims to provide a secure and efficient way to manage access permissions, ensuring that only authorized users can access specific resources.
